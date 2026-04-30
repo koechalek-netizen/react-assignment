@@ -10,7 +10,7 @@ function About() {
         In my free time, I enjoy various activities that keep me inspired and motivated to grow both personally and professionally.
       </p>
       <img
-        src="https://placekitten.com/200/200"
+        src="https://creaseymahannaturepreserve.org/wp-content/uploads/2013/12/AJ-Barn-Owl-4.jpg"
         alt="My spirit animal - a cat"
         style={{
           borderRadius: '50%',
